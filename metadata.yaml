@@ -1,0 +1,38 @@
+_repo: The-Book-of-Art-for-Young-People_17395
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Conway, William Martin, Sir
+    aliases:
+    - Conway, Martin, Sir
+    - Conway, Sir William Martin
+    - Conway of Allington, William Martin Conway, Baron
+    - Conway, W. Martin (William Martin), Sir
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '7347'
+    url: http://www.gutenberg.org/2009/agents/7347
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Conway
+  - agent_name: Conway, Agnes Ethel
+    birthdate: 1885
+    deathdate: 1950
+    gutenberg_agent_id: '7346'
+    url: http://www.gutenberg.org/2009/agents/7346
+description: ''
+gutenberg_issued: '2005-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Juvenile literature'
+- !lcc 'ND'
+- !lcsh 'Painting'
+title: The Book of Art for Young People
+url: http://www.gutenberg.org/ebooks/17395
